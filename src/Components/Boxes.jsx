@@ -1,5 +1,8 @@
 import React from "react";
 import Box from "./Box";
+import Button from "./Button";
+import '../css/box.css'
+import '../css/button.css'
 
 const Boxes = () => {
   return (
@@ -12,6 +15,7 @@ const Boxes = () => {
         value="73%"
         color="#452983"
       />
+      <Button cName={"b3"} text="Upload" />
     </div>
   );
 };

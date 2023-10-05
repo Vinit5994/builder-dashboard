@@ -1,6 +1,6 @@
 .btn {
   text-align: center;
-  width: 50%;
+  /* width: 50%; */
   border: 1px solid;
   font-size: 14px;
   background-color: #452983;
@@ -15,4 +15,8 @@
 }
 .b2 {
   margin-left: 8px;
+}
+.b3{
+ height: 134px;
+ width: 250px;
 }
